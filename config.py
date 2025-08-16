@@ -19,7 +19,7 @@ parser.add_argument('--model_name', type=str, help='model name')
 parser.add_argument('-j', '--workers', default=0, type=int, metavar='N', help='number of data loading workers (default: 32)')
 parser.add_argument('--epochs', default=500, type=int, metavar='N', help='number of total epochs to run')#16
 parser.add_argument('--start-epoch', default=0, type=int, metavar='N', help='manual epoch number (useful on restarts)')
-parser.add_argument('-b', '--batch_size', default=12, type=int, metavar='N', help='mini-batch size, this is the total '
+parser.add_argument('-b', '--batch_size', default=1, type=int, metavar='N', help='mini-batch size, this is the total '
                          'batch size of all GPUs on the current node when '
                          'using Data Parallel or Distributed Data Parallel')
 
