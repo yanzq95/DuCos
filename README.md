@@ -10,7 +10,7 @@
 <a href="">Haoye Dong</a><sup>1</sup>,
 <a href="">Jun Li</a><sup>2</sup>,
 <a href="https://scholar.google.com/citations?user=6CIDtZQAAAAJ&hl=zh-CN">Jian Yang</a><sup>2</sup>,
-<a href="https://cszn.github.io/">Gim Hee Lee </a><sup>1</sup>
+<a href="">Gim Hee Lee </a><sup>1</sup>
 </p>
 
 <p align="center">
