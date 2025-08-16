@@ -7,10 +7,10 @@
 <p align="center">
 <a href="https://yanzq95.github.io/">Zhiqiang Yan</a><sup>1</sup>, 
 <a href="https://scholar.google.com/citations?user=VogTuQkAAAAJ&hl=zh-CN">Zhengxue Wang</a><sup>2</sup>, 
-<a href="">Haoye Dong</a><sup>1</sup>,
-<a href="">Jun Li</a><sup>2</sup>,
+<a href="https://www.haoyed.com/">Haoye Dong</a><sup>1</sup>,
+<a href="https://sites.google.com/view/junlineu/">Jun Li</a><sup>2</sup>,
 <a href="https://scholar.google.com/citations?user=6CIDtZQAAAAJ&hl=zh-CN">Jian Yang</a><sup>2</sup>,
-<a href="">Gim Hee Lee </a><sup>1</sup>
+<a href="https://www.comp.nus.edu.sg/~leegh/">Gim Hee Lee </a><sup>1</sup>
 </p>
 
 <p align="center">
@@ -20,7 +20,7 @@
 </p>
 
 ## Dependencies
-Please refer to the <a href="https://github.com/yanzq95/DuCos/blob/main/requirements.sh">requirements</a> file.
+Please refer to the <a href="https://github.com/yanzq95/DuCos/blob/main/requirements.sh">requirements</a>.
 
 ## Datasets
 
