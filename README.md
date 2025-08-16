@@ -20,4 +20,14 @@
 </p>
 
 ## Dependencies
-Please refer to the <a href="https://github.com/yanzq95/DORNet/tree/main/checkpoints">requirements</a> file.
+Please refer to the <a href="https://github.com/yanzq95/DuCos/blob/main/requirements.sh">requirements</a> file.
+
+## Datasets
+
+[RGB-D-D](https://github.com/lingzhi96/RGB-D-D-Dataset)
+
+[TOFDSR](https://yanzq95.github.io/projectpage/TOFDC/index.html)
+
+[NYU-v2](https://cs.nyu.edu/~fergus/datasets/nyu_depth_v2.html)
+
+
