@@ -36,7 +36,7 @@ Please refer to the <a href="https://github.com/yanzq95/DuCos/blob/main/requirem
 
 ## Models
 
-Pretrained models can be found in  <a href="">checkpoints</a>.
+Pretrained models can be found in  <a href="https://huggingface.co/RaynWu2002/DuCos/tree/main">checkpoints</a>.
 
 ## Training
 
