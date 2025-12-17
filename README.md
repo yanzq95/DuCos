@@ -24,6 +24,8 @@ Please refer to the <a href="https://github.com/yanzq95/DuCos/blob/main/requirem
 
 ## Datasets
 
+[Training split](https://drive.google.com/file/d/1HeWcXPZWYAs4rjQdc-FDva4C4DwpBYix/view?usp=sharing)
+
 [RGB-D-D](https://github.com/lingzhi96/RGB-D-D-Dataset)
 
 [TOFDSR](https://yanzq95.github.io/projectpage/TOFDC/index.html)
